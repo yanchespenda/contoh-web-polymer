@@ -1,0 +1,19 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "description": "Sample Polymer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanchespenda/contoh-web-polymer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanchespenda/contoh-web-polymer/issues"
+  },
+  "homepage": "https://github.com/yanchespenda/contoh-web-polymer#readme"
+}
